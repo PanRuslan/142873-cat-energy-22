@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи»
 
 * Студент: [Руслан Ганиев](https://up.htmlacademy.ru/adaptive/22/user/142873).
-* Наставник: [Валентина Видяева] (https://htmlacademy.ru/profile/id189794).
+* Наставник: [Валентина Видяева](https://htmlacademy.ru/profile/id189794).
 
 ---
 
