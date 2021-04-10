@@ -1,0 +1,12 @@
+.promo {
+  padding: 0 20px;
+  background: $basic-green;
+  background: url('../../img/promo.jpg') no-repeat;
+  color: $basic-white;
+
+  &__slogan {
+    font-size: 14px;
+    line-height: 14px;
+    text-transform: uppercase;
+  }
+}

@@ -1,0 +1,30 @@
+.nutrition-programs {
+  padding: 0 20px;
+
+  &__program {
+    background-color: $basic-gray;
+    background-image: url("../../img/cat_back.svg");
+    background-position: 21px 22px;
+    background-repeat: no-repeat;
+    background-size: 50px 53px;
+  }
+
+  &__program:nth-of-type(2) {
+    background-image: url("../../img/panter_back.svg");
+    background-position: 13px 24px;
+    background-size: 67px 50px;
+  }
+
+  &__header {
+    font-size: 24px;
+    line-height: 37px;
+    text-transform: uppercase;
+  }
+
+  &__link {
+    font-size: 16px;
+    line-height: 16px;
+    text-transform: uppercase;
+    text-decoration: none;
+  }
+}
