@@ -1,24 +1,22 @@
 .example {
   padding: 0 20px;
   background-color: $background-gray;
+}
 
-  &__effect {
-    &-header {
-      font-weight: 12px;
-      line-height: 12px;
-      text-transform: lowercase;
-    }
+.example__effect-header {
+  font-size: 12px;
+  line-height: 12px;
+  text-transform: lowercase;
+}
 
-    &-count {
-      font-weight: 24px;
-      line-height: 24px;
-      text-transform: uppercase;
-    }
-  }
+.example__effect-count {
+  font-weight: 24px;
+  line-height: 24px;
+  text-transform: uppercase;
+}
 
-  &__text {
-    font-size: 16px;
-    line-height: 20px;
-    text-transform: uppercase;
-  }
+.example__text {
+  font-size: 16px;
+  line-height: 20px;
+  text-transform: uppercase;
 }
